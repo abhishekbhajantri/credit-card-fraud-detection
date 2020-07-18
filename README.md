@@ -21,4 +21,5 @@ The steps involved in the project are:
 
 Final result of analysis: The accuracy obtained is 0.9976124433833081 (Isolation Forest)
 
-Reference: Under the guidance of DLithe(www.dlithe.com)
+Reference:
+Assignment during Online Internship with DLithe(www.dlithe.com)
